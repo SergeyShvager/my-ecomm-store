@@ -127,3 +127,16 @@
     flex-direction: column;
   }
 }
+
+.button {
+  color: white;
+  padding: 0.8em 1.4em;
+  font-size: 0.9em;
+  font-weight: 700;
+  font-family: inherit;
+  background-color: blueviolet;
+  border: 0;
+  border-radius: 0.2em;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
